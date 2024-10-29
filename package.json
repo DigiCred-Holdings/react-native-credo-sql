@@ -1,6 +1,6 @@
 {
   "name": "react-native-credo-sql",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Credo React Native SQL",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
